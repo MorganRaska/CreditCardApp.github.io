@@ -1,11 +1,8 @@
 # Code for Projects
 
-# Credit Card Approval Code
-# Housing Code
-# PCA (R)
-# Basic Stats analysis'
-# Basic Political visuals (tableu, R, Python)
-#  Safety Project
-# Housing Accomidation Analysis
-# Housing Accomidation Analysis Part 2
-# Housing Accomidation Analysis Part 3
+
+In this repository you will find code that I linked to my web portfolio. The code includes analysis for: Safety, PCA, Basic Statistical analysis, Housing market auto-regressive model, and a credit card regressor model. 
+
+
+
+
